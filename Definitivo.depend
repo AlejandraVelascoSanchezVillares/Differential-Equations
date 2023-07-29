@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1565282356 source:c:\users\jandr\desktop\definitivo\main.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<cmath>
+	<stdio.h>
+	"Matrix.h"
+	"Matrix.cpp"
+	"r8lib.h"
+	"r8mat_expm1.h"
+
+1565260682 c:\users\jandr\desktop\definitivo\matrix.h
+	<iomanip>
+	<iostream>
+	<cstdlib>
+	<cmath>
+
+1565260731 c:\users\jandr\desktop\definitivo\matrix.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<cmath>
+	"Matrix.h"
+
+1565254788 c:\users\jandr\desktop\definitivo\r8lib.h
+
+1565254770 c:\users\jandr\desktop\definitivo\r8mat_expm1.h
+

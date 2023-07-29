@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1558409221 source:c:\users\jandr\desktop\aes\main.cpp
+
+1558323112 c:\users\jandr\desktop\aes\aes.h
+
+1558324267 c:\users\jandr\desktop\aes\aes.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<sstream>
+
